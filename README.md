@@ -11,6 +11,7 @@ step 2 : node index.js
 now the project's server will be started at port 3000
 
 pre-requisites:
+
 A. Installations required:
   1. Nodejs
   2. mysql
